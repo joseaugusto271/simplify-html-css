@@ -28,7 +28,7 @@ Santo André/SP
 
 Telefone: (11) 3322-0050 - E-mail: santoandre@sp.senai.br
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.268117966629!2d-46.52076328440502!3d-23.66636787136494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce69d619d62a27%3A0x41f94d2be4af4536!2sEscola%20SENAI%20%22A.%20Jacob%20Lafer%22!5e0!3m2!1spt-BR!2sbr!4v1669677629758!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.268117966629!2d-46.52076328440502!3d-23.66636787136494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce69d619d62a27%3A0x41f94d2be4af4536!2sEscola%20SENAI%20%22A.%20Jacob%20Lafer%22!5e0!3m2!1spt-BR!2sbr!4v1669677629758!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 --------------
 
